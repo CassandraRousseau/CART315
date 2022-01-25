@@ -1,0 +1,54 @@
+{
+    "name": "Actions",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "c74dd591-d3c8-41ab-a4e0-37d51f305d33",
+            "actions": [
+                {
+                    "name": "Rotation1",
+                    "type": "Button",
+                    "id": "c3e8e7ff-3a2b-4af9-93bd-ac8dd8ae3ccb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Roatation2",
+                    "type": "Button",
+                    "id": "1de44ffd-54ae-47be-b7cb-61cecb5f92d6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b560dbaa-8ca3-447e-99c3-98cdb2deefc5",
+                    "path": "<Keyboard>/#(R)",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotation1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4719c517-0146-4921-ac5a-8302f9560863",
+                    "path": "<Keyboard>/#(T)",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Roatation2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
