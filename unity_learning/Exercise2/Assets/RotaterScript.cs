@@ -14,12 +14,18 @@ public class RotaterScript : MonoBehaviour
     // Update is called once per frame
     void fixedUpdate()
     {
-        if (Input.GetKey(KeyCode.R))
+        /*if (Input.GetKey(KeyCode.R))
         { this.GetComponent<Transform>().Rotate(0, rotationSpeed, 0); }
 
         if (Input.GetKey(KeyCode.T))
-        { this.GetComponent<Transform>().Rotate(0, -rotationSpeed, 0); }
+        { this.GetComponent<Transform>().Rotate(0, -rotationSpeed, 0); }*/
     }
 
-    public void 
+    public void Rotate1() {
+        this.GetComponent<Transform>().Rotate(0, rotationSpeed, 0);
+    }
+
+    public void Rotate2() {
+        this.GetComponent<Transform>().Rotate(0, -rotationSpeed, 0);
+    }
 }
