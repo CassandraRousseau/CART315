@@ -15,11 +15,11 @@ C:/Users/cass2/Desktop/Cassandra/university/coding/CART315/Prototypes/Prototype0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58502
+58638
 Successfully changed project path to: C:/Users/cass2/Desktop/Cassandra/university/coding/CART315/Prototypes/Prototype01
 C:/Users/cass2/Desktop/Cassandra/university/coding/CART315/Prototypes/Prototype01
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 96.74 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 98.09 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.25f1 (9b9180224418)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
@@ -35,92 +35,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56364
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004560 seconds.
+Registered in 0.011340 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 94.59 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 105.55 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.621 seconds
+- Completed reload, in  2.594 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1621ms)
-		BeginReloadAssembly (170ms)
+	ReloadAssembly (2594ms)
+		BeginReloadAssembly (362ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (2ms)
-		EndReloadAssembly (1265ms)
-			LoadAssemblies (165ms)
+			CreateAndSetChildDomain (5ms)
+		EndReloadAssembly (1780ms)
+			LoadAssemblies (351ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (446ms)
+			SetupTypeCache (728ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (81ms)
-			SetupLoadedEditorAssemblies (467ms)
+			RebuildScriptCaches (112ms)
+			SetupLoadedEditorAssemblies (533ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (13ms)
+				InitializePlatformSupportModulesInManaged (14ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (95ms)
-				BeforeProcessingInitializeOnLoad (42ms)
-				ProcessInitializeOnLoadAttributes (245ms)
-				ProcessInitializeOnLoadMethodAttributes (71ms)
+				RefreshPlugins (106ms)
+				BeforeProcessingInitializeOnLoad (46ms)
+				ProcessInitializeOnLoadAttributes (287ms)
+				ProcessInitializeOnLoadMethodAttributes (79ms)
 				AfterProcessingInitializeOnLoad (0ms)
-				EditorAssembliesLoaded (0ms)
+				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.010507 seconds.
+Registered in 0.024996 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.631 seconds
+- Completed reload, in  4.537 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2633ms)
-		BeginReloadAssembly (339ms)
+	ReloadAssembly (4541ms)
+		BeginReloadAssembly (1270ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (11ms)
+			DisableScriptedObjects (46ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (38ms)
-		EndReloadAssembly (2142ms)
-			LoadAssemblies (274ms)
+			CreateAndSetChildDomain (137ms)
+		EndReloadAssembly (2857ms)
+			LoadAssemblies (675ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (715ms)
+			SetupTypeCache (1045ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (105ms)
-			SetupLoadedEditorAssemblies (815ms)
+			RebuildScriptCaches (110ms)
+			SetupLoadedEditorAssemblies (1006ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
-				SetLoadedEditorAssemblies (1ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (2ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (240ms)
-				ProcessInitializeOnLoadAttributes (525ms)
-				ProcessInitializeOnLoadMethodAttributes (22ms)
+				BeforeProcessingInitializeOnLoad (273ms)
+				ProcessInitializeOnLoadAttributes (683ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
 				AfterProcessingInitializeOnLoad (12ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
-Refreshing native plugins compatible for Editor in 1.88 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1859 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 84.3 MB.
-System memory in use after: 84.3 MB.
+System memory in use after: 84.4 MB.
 
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2293.
-Total: 6.977600 ms (FindLiveObjects: 0.323200 ms CreateObjectMapping: 0.161500 ms MarkObjects: 6.243900 ms  DeleteObjects: 0.246900 ms)
+Total: 7.595300 ms (FindLiveObjects: 0.391500 ms CreateObjectMapping: 0.193700 ms MarkObjects: 6.769300 ms  DeleteObjects: 0.238900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -135,129 +135,57 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Pink_petals.mat
-  artifactKey: Guid(7fe15792d8e22444088518f603d2045b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pink_petals.mat using Guid(7fe15792d8e22444088518f603d2045b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431446640962d7bc5dc37cbe55478c34') in 0.433603 seconds 
-  Import took 0.442576 seconds .
+  path: Assets/darkness.mat
+  artifactKey: Guid(df8c9f7433131c04a814ba499b24edb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/darkness.mat using Guid(df8c9f7433131c04a814ba499b24edb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92c2b951e971536a37d4008bd233188') in 0.406427 seconds 
+  Import took 0.419573 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 127.538370 seconds.
-  path: Assets/Flower.prefab
-  artifactKey: Guid(9dadfe20aeccde843933e6d93654bea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Flower.prefab using Guid(9dadfe20aeccde843933e6d93654bea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f7e3dc01dc368c7f2a3f28b23512a6') in 0.113235 seconds 
-  Import took 0.131270 seconds .
+  Time since last request: 679.523735 seconds.
+  path: Assets/darkness.mat
+  artifactKey: Guid(df8c9f7433131c04a814ba499b24edb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/darkness.mat using Guid(df8c9f7433131c04a814ba499b24edb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ad19fb8a2ed08b0ecf69126c21b15c') in 0.138260 seconds 
+  Import took 0.162763 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 121.499938 seconds.
-  path: Assets/Flower.prefab
-  artifactKey: Guid(9dadfe20aeccde843933e6d93654bea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Flower.prefab using Guid(9dadfe20aeccde843933e6d93654bea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6431d1a0610198aa718215342ebcd8db') in 0.126885 seconds 
-  Import took 0.146362 seconds .
+  Time since last request: 1237.443851 seconds.
+  path: Assets/Spike.mat
+  artifactKey: Guid(1e91e4c5135c9294986c063ea5a902df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spike.mat using Guid(1e91e4c5135c9294986c063ea5a902df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6990e740860da75db39f24b46792a3b') in 0.088494 seconds 
+  Import took 0.109437 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 37.841836 seconds.
-  path: Assets/Red_petals.mat
-  artifactKey: Guid(ae052ca2f6301d3478394a7f46721c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Red_petals.mat using Guid(ae052ca2f6301d3478394a7f46721c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '449afd6f3456c04c93b6b7ac24bdf7e8') in 0.106396 seconds 
-  Import took 0.123500 seconds .
+  Time since last request: 13.125115 seconds.
+  path: Assets/Spike.prefab
+  artifactKey: Guid(a0ce908d03366c34b9ba104bffba4757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spike.prefab using Guid(a0ce908d03366c34b9ba104bffba4757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50eb3ab6fbaf8549bb16497ef4619d4d') in 0.076637 seconds 
+  Import took 0.092850 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 47.085467 seconds.
-  path: Assets/Blue_petals.mat
-  artifactKey: Guid(e96e2b0f1ecc44345ae8357c14b3826d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Blue_petals.mat using Guid(e96e2b0f1ecc44345ae8357c14b3826d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b920f91c7e248bf9f627bca290525ab') in 0.096917 seconds 
-  Import took 0.117284 seconds .
+  Time since last request: 9.867506 seconds.
+  path: Assets/Spike.prefab
+  artifactKey: Guid(a0ce908d03366c34b9ba104bffba4757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spike.prefab using Guid(a0ce908d03366c34b9ba104bffba4757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d6753bf4103cccd8068be232e66b8d') in 0.119842 seconds 
+  Import took 0.147393 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 88.226829 seconds.
-  path: Assets/Light_pink_petals.mat
-  artifactKey: Guid(b3c32bcf4a5a676468233582c2b4fc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Light_pink_petals.mat using Guid(b3c32bcf4a5a676468233582c2b4fc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a98786850513705edc6845e41de890') in 0.104616 seconds 
-  Import took 0.135247 seconds .
+  Time since last request: 787.117886 seconds.
+  path: Assets/Bones.prefab
+  artifactKey: Guid(37b791d8775507d43aabb29d8bd096b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bones.prefab using Guid(37b791d8775507d43aabb29d8bd096b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1a4a6f7870fe21464315037abb2c65') in 0.055941 seconds 
+  Import took 0.081020 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 29.727886 seconds.
-  path: Assets/New Material.mat
-  artifactKey: Guid(5fab554118b4ce64d915ee4b736bf506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material.mat using Guid(5fab554118b4ce64d915ee4b736bf506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8d5930bd2035b24baf91e913f20f99') in 0.090982 seconds 
-  Import took 0.108817 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 154.567408 seconds.
-  path: Assets/Bush.prefab
-  artifactKey: Guid(f531945c8821c6a4da94c02083441046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bush.prefab using Guid(f531945c8821c6a4da94c02083441046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8972cc5a2fcbd32cf2cc2e0cacdff92') in 0.065820 seconds 
-  Import took 0.084456 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.139417 seconds.
-  path: Assets/Bush.prefab
-  artifactKey: Guid(f531945c8821c6a4da94c02083441046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bush.prefab using Guid(f531945c8821c6a4da94c02083441046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942ec20c1f31edc53ddedb98afb90447') in 0.167221 seconds 
-  Import took 0.189690 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 125.411619 seconds.
-  path: Assets/Bench_color.mat
-  artifactKey: Guid(1a0897aa5580c584d83f64eed42a7a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bench_color.mat using Guid(1a0897aa5580c584d83f64eed42a7a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c777b9964663c64d65d1e8755c3ee859') in 0.096619 seconds 
-  Import took 0.119046 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 117.897031 seconds.
-  path: Assets/Bench_color.mat
-  artifactKey: Guid(1a0897aa5580c584d83f64eed42a7a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bench_color.mat using Guid(1a0897aa5580c584d83f64eed42a7a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a128fe128451ef6c8610a084a81f90f2') in 0.146798 seconds 
-  Import took 0.172037 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001790 seconds.
-  path: Assets/Blue_petals.mat
-  artifactKey: Guid(e96e2b0f1ecc44345ae8357c14b3826d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Blue_petals.mat using Guid(e96e2b0f1ecc44345ae8357c14b3826d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759e3c1ad794e9dd6fcde0f1c5a5a82e') in 0.162934 seconds 
-  Import took 0.188143 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001945 seconds.
-  path: Assets/Light_pink_petals.mat
-  artifactKey: Guid(b3c32bcf4a5a676468233582c2b4fc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Light_pink_petals.mat using Guid(b3c32bcf4a5a676468233582c2b4fc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc6ee19ec39084bbfe69575e51ef4537') in 0.128270 seconds 
-  Import took 0.153826 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001740 seconds.
-  path: Assets/New Material.mat
-  artifactKey: Guid(5fab554118b4ce64d915ee4b736bf506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material.mat using Guid(5fab554118b4ce64d915ee4b736bf506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8b33649eece1b1b8edb80df633a376') in 0.139687 seconds 
-  Import took 0.161211 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001769 seconds.
-  path: Assets/Red_petals.mat
-  artifactKey: Guid(ae052ca2f6301d3478394a7f46721c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Red_petals.mat using Guid(ae052ca2f6301d3478394a7f46721c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4272a9758c51674e9e7ec08978b33db6') in 0.106735 seconds 
-  Import took 0.127740 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001726 seconds.
-  path: Assets/Pink_petals.mat
-  artifactKey: Guid(7fe15792d8e22444088518f603d2045b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pink_petals.mat using Guid(7fe15792d8e22444088518f603d2045b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f9ddca8634d64866fe7442bdf9d385') in 0.098879 seconds 
-  Import took 0.123194 seconds .
+  Time since last request: 16.361773 seconds.
+  path: Assets/Bones.prefab
+  artifactKey: Guid(37b791d8775507d43aabb29d8bd096b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bones.prefab using Guid(37b791d8775507d43aabb29d8bd096b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5350a89ecab87901f0d4c83946efddc4') in 0.144058 seconds 
+  Import took 0.164775 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
