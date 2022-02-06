@@ -1,0 +1,8 @@
+1.The game is meant to slowly feed the narrative to the player through these small dialogue interactions. From the limited amount that you’ve seen, do you think that a full-fledged narrative could be accomplished this way?
+Yes, I believe a full narrative is achievable!
+
+2.Would this fare better as a 3D game with an actual shop environment? Or is the minimal UI a style of its own?
+I really liked the UI style of the game! I do not think it is necessary to change it as a 3D game. 
+
+3.Should the narrative stakes be lowered? In other words, is the story’s scope and worldbuilding too vast?
+I think introducing the universe and its plot at the beginning of the game would be the only detail that I suggest you to add in your prototype.
