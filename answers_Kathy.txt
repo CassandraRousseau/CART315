@@ -1,8 +1,0 @@
-1.Does the third person perspective feel weird?
-No I do not think so. What might be an little upgrade on this perspective is  to make the make  the view a bit angled.
-
-2.Should the camera be further from the cow or closer?
-I think the camera is at a good position. 
-
-3.Is the first parkour too hard to accomplish?
-Yes it is. I suggest you to make the platforms on your "tree" a bit larger to make the cow fits on those. 
